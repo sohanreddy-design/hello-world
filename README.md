@@ -1,2 +1,1 @@
-# hello-world
-My first github repositary
+cout<<"Hello GitHub! This is my first branch edit.";
